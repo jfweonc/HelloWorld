@@ -1,0 +1,15 @@
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.exe
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.deps.json
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.runtimeconfig.json
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.dll
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.pdb
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.csproj.AssemblyReference.cache
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfoInputs.cache
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfo.cs
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.dll
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\obj\Debug\net6.0\refint\FactoryPatternExercise2.dll
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.pdb
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.genruntimeconfig.cache
+C:\Users\freeb\Desktop\repos\FactoryPatternExercise2\obj\Debug\net6.0\ref\FactoryPatternExercise2.dll
